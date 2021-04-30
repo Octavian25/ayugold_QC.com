@@ -1,0 +1,31 @@
+{
+  "short_name": "Ayu Gold Grosir Web",
+  "name": "AyuGold Grosir Website",
+  "description": "Website untuk Transaksi Ayugold Store dan Grosir",
+  "icons": [
+    {
+      "src": "/logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#3E59E3",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#3E59E3",
+  "shortcuts": [
+    {
+      "name": "Lihat Harga Emas Terkini",
+      "short_name": "Harga Emas",
+      "description": "Lihat Harga Emas Terkini",
+      "url": "/dashboard",
+      "icons": [{ "src": "/images/logo192.png", "sizes": "192x192" }]
+    }
+  ]
+}
