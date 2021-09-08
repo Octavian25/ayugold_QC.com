@@ -4,27 +4,27 @@
   "description": "Website untuk Transaksi Ayugold Store dan Grosir",
   "icons": [
     {
-      "src": "/ayugold_QC.com/logo192.png",
+      "src": "/logo192.png",
       "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/ayugold_QC.com/logo512.png",
+      "src": "/logo512.png",
       "type": "image/png",
       "sizes": "512x512"
     }
   ],
-  "start_url": "/ayugold_QC.com/",
+  "start_url": "/",
   "background_color": "#3E59E3",
   "display": "standalone",
-  "scope": "/ayugold_QC.com/",
+  "scope": "/",
   "theme_color": "#3E59E3",
   "shortcuts": [
     {
       "name": "Lihat Harga Emas Terkini",
       "short_name": "Harga Emas",
       "description": "Lihat Harga Emas Terkini",
-      "url": "/ayugold_QC.com/dashboard",
+      "url": "/dashboard",
       "icons": [{ "src": "/images/logo192.png", "sizes": "192x192" }]
     }
   ]

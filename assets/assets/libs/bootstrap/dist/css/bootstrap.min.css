@@ -5,7 +5,7 @@
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/master/LICENSE)
  */
 :root {
-    --blue: #007bff;
+    --blue: #91866a;
     --indigo: #6610f2;
     --purple: #6f42c1;
     --pink: #e83e8c;
@@ -18,7 +18,7 @@
     --white: #fff;
     --gray: #6c757d;
     --gray-dark: #343a40;
-    --primary: #007bff;
+    --primary: #91866a;
     --secondary: #6c757d;
     --success: #28a745;
     --info: #17a2b8;
@@ -168,7 +168,7 @@ sup {
 }
 
 a {
-    color: #007bff;
+    color: #91866a;
     text-decoration: none;
     background-color: transparent
 }
@@ -2732,8 +2732,8 @@ fieldset:disabled a.btn {
 
 .btn-primary {
     color: #fff;
-    background-color: #007bff;
-    border-color: #007bff
+    background-color: #91866a;
+    border-color: #91866a
 }
 
 .btn-primary:hover {
@@ -2750,8 +2750,8 @@ fieldset:disabled a.btn {
 .btn-primary.disabled,
 .btn-primary:disabled {
     color: #fff;
-    background-color: #007bff;
-    border-color: #007bff
+    background-color: #91866a;
+    border-color: #91866a
 }
 
 .btn-primary:not(:disabled):not(.disabled).active,
@@ -3035,14 +3035,14 @@ fieldset:disabled a.btn {
 }
 
 .btn-outline-primary {
-    color: #007bff;
-    border-color: #007bff
+    color: #91866a;
+    border-color: #91866a
 }
 
 .btn-outline-primary:hover {
     color: #fff;
-    background-color: #007bff;
-    border-color: #007bff
+    background-color: #91866a;
+    border-color: #91866a
 }
 
 .btn-outline-primary.focus,
@@ -3052,7 +3052,7 @@ fieldset:disabled a.btn {
 
 .btn-outline-primary.disabled,
 .btn-outline-primary:disabled {
-    color: #007bff;
+    color: #91866a;
     background-color: transparent
 }
 
@@ -3060,8 +3060,8 @@ fieldset:disabled a.btn {
 .btn-outline-primary:not(:disabled):not(.disabled):active,
 .show>.btn-outline-primary.dropdown-toggle {
     color: #fff;
-    background-color: #007bff;
-    border-color: #007bff
+    background-color: #91866a;
+    border-color: #91866a
 }
 
 .btn-outline-primary:not(:disabled):not(.disabled).active:focus,
@@ -3324,7 +3324,7 @@ fieldset:disabled a.btn {
 
 .btn-link {
     font-weight: 400;
-    color: #007bff;
+    color: #91866a;
     text-decoration: none
 }
 
@@ -3636,7 +3636,7 @@ input[type=submit].btn-block {
 .dropdown-item:active {
     color: #fff;
     text-decoration: none;
-    background-color: #007bff
+    background-color: #91866a
 }
 
 .dropdown-item.disabled,
@@ -4012,8 +4012,8 @@ input[type=submit].btn-block {
 
 .custom-control-input:checked~.custom-control-label::before {
     color: #fff;
-    border-color: #007bff;
-    background-color: #007bff
+    border-color: #91866a;
+    background-color: #91866a
 }
 
 .custom-control-input:focus~.custom-control-label::before {
@@ -4077,8 +4077,8 @@ input[type=submit].btn-block {
 }
 
 .custom-checkbox .custom-control-input:indeterminate~.custom-control-label::before {
-    border-color: #007bff;
-    background-color: #007bff
+    border-color: #91866a;
+    background-color: #91866a
 }
 
 .custom-checkbox .custom-control-input:indeterminate~.custom-control-label::after {
@@ -4307,7 +4307,7 @@ input[type=submit].btn-block {
     width: 1rem;
     height: 1rem;
     margin-top: -.25rem;
-    background-color: #007bff;
+    background-color: #91866a;
     border: 0;
     border-radius: 1rem;
     transition: background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
@@ -4338,7 +4338,7 @@ input[type=submit].btn-block {
 .custom-range::-moz-range-thumb {
     width: 1rem;
     height: 1rem;
-    background-color: #007bff;
+    background-color: #91866a;
     border: 0;
     border-radius: 1rem;
     transition: background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
@@ -4372,7 +4372,7 @@ input[type=submit].btn-block {
     margin-top: 0;
     margin-right: .2rem;
     margin-left: .2rem;
-    background-color: #007bff;
+    background-color: #91866a;
     border: 0;
     border-radius: 1rem;
     transition: background-color .15s ease-in-out, border-color .15s ease-in-out, box-shadow .15s ease-in-out;
@@ -4516,7 +4516,7 @@ input[type=submit].btn-block {
 .nav-pills .nav-link.active,
 .nav-pills .show>.nav-link {
     color: #fff;
-    background-color: #007bff
+    background-color: #91866a
 }
 
 .nav-fill .nav-item {
@@ -5291,7 +5291,7 @@ input[type=submit].btn-block {
     padding: .5rem .75rem;
     margin-left: -1px;
     line-height: 1.25;
-    color: #007bff;
+    color: #91866a;
     background-color: #fff;
     border: 1px solid #dee2e6
 }
@@ -5324,8 +5324,8 @@ input[type=submit].btn-block {
 .page-item.active .page-link {
     z-index: 1;
     color: #fff;
-    background-color: #007bff;
-    border-color: #007bff
+    background-color: #91866a;
+    border-color: #91866a
 }
 
 .page-item.disabled .page-link {
@@ -5409,7 +5409,7 @@ a.badge:hover {
 
 .badge-primary {
     color: #fff;
-    background-color: #007bff
+    background-color: #91866a
 }
 
 a.badge-primary:focus,
@@ -5742,7 +5742,7 @@ a.badge-dark:focus {
     color: #fff;
     text-align: center;
     white-space: nowrap;
-    background-color: #007bff;
+    background-color: #91866a;
     transition: width .6s ease
 }
 
@@ -5839,8 +5839,8 @@ a.badge-dark:focus {
 .list-group-item.active {
     z-index: 2;
     color: #fff;
-    background-color: #007bff;
-    border-color: #007bff
+    background-color: #91866a;
+    border-color: #91866a
 }
 
 .list-group-horizontal {
@@ -7034,7 +7034,7 @@ a.close.disabled {
 }
 
 .bg-primary {
-    background-color: #007bff !important
+    background-color: #91866a !important
 }
 
 a.bg-primary:focus,
@@ -7170,7 +7170,7 @@ button.bg-dark:hover {
 }
 
 .border-primary {
-    border-color: #007bff !important
+    border-color: #91866a !important
 }
 
 .border-secondary {
@@ -10928,7 +10928,7 @@ button.bg-dark:hover {
 }
 
 .text-primary {
-    color: #007bff !important
+    color: #91866a !important
 }
 
 a.text-primary:focus,

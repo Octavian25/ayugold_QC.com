@@ -13235,6 +13235,13 @@ button.bg-primary:hover {
   text-align: left;
 }
 
+.body-table {
+  background-color: #dedede;
+  font-weight: 500;
+  font-size: calc(0.35em + 1vmin);
+  text-align: left;
+}
+
 .header-table-pdf {
   background-color: #dedede;
   font-weight: 900;
@@ -20240,4 +20247,11 @@ ul.list-style-none li a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.rdl-control-container {
+  display: flex;
+  flex: 1 0 auto;
+  flex-direction: column;
+  height: 500px !important
 }
